@@ -1,0 +1,41 @@
+*{
+    padding: 10px;
+  }
+  
+  body{
+    font-family:monospace;
+    background-color: #d25780;
+  }
+  .user_input{
+    margin-top: 2px;
+    width: 30px;
+    text-align: center;
+  }
+  
+input{
+    width: 50%;
+    padding: 8px;
+    border-radius: 10px;
+  }
+  
+button{
+    cursor: pointer;
+    padding: 10px;
+    color: rgb(19, 10, 10);
+    background-color: aquamarine;
+    border-radius:15px ;
+
+  }
+  
+  button:hover{
+    background-color: transparent;
+    color: rgb(118, 37, 37);
+  }
+
+  
+  
+  .item:hover{
+    box-shadow: 0 0 20px #E22865;
+    border: 1px solid #E22865;
+  
+}  
